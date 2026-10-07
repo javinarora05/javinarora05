@@ -1,190 +1,163 @@
-<div align="center">
+![Hello World](assets/hello_world.svg)
 
-# 👋 Hey, I'm Javin Arora
+![About Me](assets/about_me_title.svg)
 
-### Full-Stack Developer • Backend Engineer • Data & ML Enthusiast
-
-<p>Building clean systems, useful products, and projects that actually do something.</p>
-
-<p>
-  <a href="https://github.com/javinarora05">
-    <img src="https://img.shields.io/badge/GitHub-javinarora05-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/javin-arora-66009a376/">
-    <img src="https://img.shields.io/badge/LinkedIn-Javin%20Arora-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Javin+Arora+%F0%9F%91%8B;Full-Stack+Developer+%7C+Backend+Engineer;Data+%26+Machine+Learning+Enthusiast;I+build+things+that+actually+work." />
 </p>
 
-</div>
+<p align="center">
+  Computer Science student focused on building scalable applications,<br>
+  backend systems, data-driven products and solving interesting problems.
+</p>
 
----
+![Socials](assets/socials_title.svg)
 
-## ⚡ About Me
+<p align="center">
 
-I'm a Computer Science student focused on **full-stack development, backend engineering, Java, and data/ML**.
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javinarora05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javin-arora-66009a376/)
 
-I like building things from scratch, understanding how systems work under the hood, and turning ideas into working products.
+</p>
 
-Currently focused on:
-
-- 🧠 Backend architecture & REST APIs
-- ⚛️ React and modern frontend systems
-- ☕ Java + Spring Boot
-- 🟢 Node.js + Express
-- 🗄️ MongoDB + MySQL + Firebase
-- 📊 Data analytics & machine learning
-- 🧩 DSA and problem solving
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
+![Tech Stack](assets/tech_stack_title.svg)
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" />
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tools & Platform
+### Backend
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,firebase" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-</div>
+### Databases
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 🚀 Featured Projects
+### Data / Machine Learning
 
-### 🌐 SST Pulse
-**Campus Event & Deadline Hub**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-A full-stack campus platform for events, deadlines, RSVPs, authentication and admin management.
+### Tools
 
-`React` `Vite` `Firebase` `Zustand` `Tailwind` `Framer Motion`
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[View Project →](https://github.com/javinarora05/SST-Vault-endsem-project-)
+![Featured Projects](assets/projects_title.svg)
 
----
+<table>
+<tr>
+<td width="50%">
 
 ### 🛒 ShopKart
-**Customer Authentication Service**
 
-Backend authentication system featuring JWTs, HttpOnly cookies, bcrypt, protected routes and MongoDB.
+Customer authentication backend featuring JWT authentication, HttpOnly cookies, bcrypt, protected routes and MongoDB.
 
-`Node.js` `Express` `MongoDB` `Mongoose` `JWT` `bcrypt`
+[View Repository →](https://github.com/javinarora05/shopping-kart-backend)
 
-[View Project →](https://github.com/javinarora05/shopping-kart-backend)
-
----
+</td>
+<td width="50%">
 
 ### 🎓 Student Management API
 
-REST API implementing CRUD operations, validation, search, pagination, sorting, DTOs and Swagger documentation.
+Spring Boot REST API with CRUD, validation, search, pagination, DTOs and Swagger/OpenAPI.
 
-`Java` `Spring Boot` `JPA` `MySQL` `OpenAPI`
+[View Repository →](https://github.com/javinarora05/student-management-api)
 
-[View Project →](https://github.com/javinarora05/student-management-api)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
+
+### 🌐 SST Pulse
+
+Campus event and deadline platform with Firebase authentication, Firestore, RSVPs, admin management and React.
+
+[View Repository →](https://github.com/javinarora05/SST-Vault-endsem-project-)
+
+</td>
+<td width="50%">
 
 ### 🌶️ SRGD Spices
 
-A real-world responsive business website with SEO optimisation, image processing, animations and deployment configuration.
+Production-oriented React website with SEO optimisation, animations, image processing and deployment setup.
 
-`React` `Vite` `Tailwind` `Framer Motion` `Sharp`
+[View Repository →](https://github.com/javinarora05/srjd)
 
-[View Project →](https://github.com/javinarora05/srjd)
+</td>
+</tr>
+</table>
 
----
+![GitHub Stats](assets/github_stats_title.svg)
 
-### 🎯 Mini AimLabs
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=javinarora05&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javinarora05&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
 
-Browser-based aim trainer focused on reaction time, precision, scoring systems and game-state management.
+![Contribution Streak](assets/streak_title.svg)
 
-`HTML` `CSS` `JavaScript` `LocalStorage`
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=javinarora05&theme=tokyonight&hide_border=true" />
+</p>
 
-[View Project →](https://github.com/javinarora05/Mini-AimLabs)
+![Contribution Graph](assets/activity_title.svg)
 
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=javinarora05&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=javinarora05&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javinarora05&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=javinarora05&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=javinarora05&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🧠 What I'm Working Toward
+![Currently Learning](assets/learning_title.svg)
 
 ```text
-Build
-  ↓
-Understand
-  ↓
-Break
-  ↓
-Fix
-  ↓
-Improve
-  ↓
-Repeat
+Backend Architecture
+        ↓
+System Design
+        ↓
+Data Structures & Algorithms
+        ↓
+Data Analytics
+        ↓
+Machine Learning
+        ↓
+Build Better Systems
 ```
 
-My goal is to become a strong software engineer who can move comfortably between **frontend, backend, databases, systems and data**.
+<p align="center">
+<i>Always learning. Always building. Always shipping.</i>
+</p>
 
----
+![Connect](assets/connect_title.svg)
 
-## 🤝 Let's Connect
+<p align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-javinarora05-181717?style=for-the-badge&logo=github)](https://github.com/javinarora05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javin%20Arora-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javin-arora-66009a376/)
+</p>
 
-<div align="center">
-
-<a href="https://github.com/javinarora05">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/javin-arora-66009a376/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
 
 ### 🚀 Build something worth remembering.
 
-</div>
+</p>
