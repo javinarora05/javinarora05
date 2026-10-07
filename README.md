@@ -1,15 +1,64 @@
 ![Hello World](assets/hello_world.svg)
 
+<p align="center">
+
+# Javin Arora here 🔥 !
+
+</p>
+
+---
+
+<p align="center">
+
+## Namaste 🙏 I'm Javin Arora
+
+</p>
+
 ![About Me](assets/about_me_title.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Javin+Arora+%F0%9F%91%8B;Full-Stack+Developer+%7C+Backend+Engineer;Data+%26+Machine+Learning+Enthusiast;I+build+things+that+actually+work." />
+<img src="https://komarev.com/ghpvc/?username=javinarora05&label=Profile%20Views&color=6d5dfc&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
-  Computer Science student focused on building scalable applications,<br>
-  backend systems, data-driven products and solving interesting problems.
-</p>
+<table>
+<tr>
+<td width="55%">
+
+🌟 Began my journey with **software development** and I'm currently building my skills across full-stack engineering, backend systems and data.
+
+<br>
+
+🌙 I work on **full-stack development and backend engineering**, while continuously exploring data analytics and machine learning.
+
+<br>
+
+🌱 I am currently pursuing a degree in **Computer Science** and sharpening my problem-solving skills through DSA and real-world projects.
+
+<br>
+
+⚡ I work with **Java, Spring Boot, Node.js, Express, React, databases and REST APIs**, and I'm always trying to understand what happens under the hood.
+
+<br>
+
+💬 Ask me about **MERN, Spring Boot, REST APIs, MongoDB, SQL, Java DSA and full-stack development.**
+
+<br>
+
+🔥 Interested in **Data Science, Machine Learning, Backend Architecture, System Design and scalable software.**
+
+<br>
+
+✨ I like building things, breaking things, fixing them, and making them better.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Developer coding animation" />
+
+</td>
+</tr>
+</table>
 
 ![Socials](assets/socials_title.svg)
 
@@ -64,100 +113,3 @@
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Featured Projects](assets/projects_title.svg)
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 ShopKart
-
-Customer authentication backend featuring JWT authentication, HttpOnly cookies, bcrypt, protected routes and MongoDB.
-
-[View Repository →](https://github.com/javinarora05/shopping-kart-backend)
-
-</td>
-<td width="50%">
-
-### 🎓 Student Management API
-
-Spring Boot REST API with CRUD, validation, search, pagination, DTOs and Swagger/OpenAPI.
-
-[View Repository →](https://github.com/javinarora05/student-management-api)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 SST Pulse
-
-Campus event and deadline platform with Firebase authentication, Firestore, RSVPs, admin management and React.
-
-[View Repository →](https://github.com/javinarora05/SST-Vault-endsem-project-)
-
-</td>
-<td width="50%">
-
-### 🌶️ SRGD Spices
-
-Production-oriented React website with SEO optimisation, animations, image processing and deployment setup.
-
-[View Repository →](https://github.com/javinarora05/srjd)
-
-</td>
-</tr>
-</table>
-
-![GitHub Stats](assets/github_stats_title.svg)
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=javinarora05&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javinarora05&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-![Contribution Streak](assets/streak_title.svg)
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=javinarora05&theme=tokyonight&hide_border=true" />
-</p>
-
-![Contribution Graph](assets/activity_title.svg)
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=javinarora05&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-![Currently Learning](assets/learning_title.svg)
-
-```text
-Backend Architecture
-        ↓
-System Design
-        ↓
-Data Structures & Algorithms
-        ↓
-Data Analytics
-        ↓
-Machine Learning
-        ↓
-Build Better Systems
-```
-
-<p align="center">
-<i>Always learning. Always building. Always shipping.</i>
-</p>
-
-![Connect](assets/connect_title.svg)
-
-<p align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-javinarora05-181717?style=for-the-badge&logo=github)](https://github.com/javinarora05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javin%20Arora-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javin-arora-66009a376/)
-</p>
-
-<p align="center">
-
-### 🚀 Build something worth remembering.
-
-</p>
